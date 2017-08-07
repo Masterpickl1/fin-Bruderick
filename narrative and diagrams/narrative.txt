@@ -1,0 +1,22 @@
+TeeTyme is a user-interface by which an administrator of a golfing resort can create,
+maintain, and delete aspects of their resort. Admins will be able to make changes to
+players, courses, and each game that players have played per course. The login system
+can be used to offer security to the resort's data. As of now, registration to login is
+open, however it can be modified to only allow administrator login once that decision
+has been made. It is the intention of the TeeTyme creators to create an easy to use,
+secure, and convenient process for all golf resort system maintenance.
+
+
+
+
+To Do's and Is Done's:
+X--	3-table CRUD application, including 1 junction table
+X--	Github repo containing all files, including diagrams
+X--	Diagrams (one ER, one screen flow, one process flow, 5 use cases)
+x--	Ajax/Phonegap
+X--	Bootstrap template
+X-- JSON web service
+X--	Login-registration / session control
+X-- Back end error checking
+/-- File upload/display
+X--	Writeup (5 sentence narrative description)
